@@ -23,7 +23,7 @@ Implements a simple GUI to translate text between 100+ languages via Google Tran
 - Python 3.10–3.12 recommended (library not compatible with 3.13+)
 
 ## Screenshot
-![Translator GUI]()
+![Translator GUI](https://github.com/YashaswiRaiM/python-translator-app/blob/main/Translator%20Screenshot.png)
 
 ## Skills Demonstrated
 
