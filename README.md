@@ -22,6 +22,9 @@ Implements a simple GUI to translate text between 100+ languages via Google Tran
 - python google_translator.py
 - Python 3.10–3.12 recommended (library not compatible with 3.13+)
 
+## Screenshot
+![Translator GUI]()
+
 ## Skills Demonstrated
 
 - GUI development (Tkinter)
